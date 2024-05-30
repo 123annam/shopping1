@@ -1,0 +1,22 @@
+.container {
+    width: 80%;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #f9f9f9;
+  }
+  
+  .container header {
+    margin-bottom: 20px;
+  }
+  
+  .container .products {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+  }
+  .error-message {
+    color: red;
+    text-align: center;
+    margin: 20px 0;
+  }
+  
