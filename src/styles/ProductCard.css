@@ -1,17 +1,18 @@
 .product-card {
-    border: 1px solid #ccc;
+    border: 1px solid #9f2066;
     background: white;
     border-radius: 4px;
-    padding: 20px;
+    padding: 10px;
     margin: 10px;
     width: 220px;
     text-align: center;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
     transition: transform 0.2s ease-in-out;
   }
   
   .product-card:hover {
     transform: scale(1.05);
+    box-shadow: 0 4px 8px #888888;
   }
   
   .product-card img {
@@ -31,7 +32,7 @@
   }
   
   .product-card button {
-    background-color: #2874f0;
+    background-color: #ad28f0;
     color: white;
     border: none;
     padding: 10px 15px;

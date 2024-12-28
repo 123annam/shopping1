@@ -68,7 +68,7 @@
   bottom: 20px; /* Adjust as needed */
   left: 50%;
   transform: translateX(-50%);
-  background-color: #2874f0;
+  background-color: rgba(234, 170, 19, 0.866);
   color: white;
   padding: 10px 20px;
   border-radius: 4px;
